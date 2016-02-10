@@ -654,6 +654,11 @@ font-weight: 700;
   background-size: cover; }
 
 
+.mika-braginsky .participant-image {
+  background: url("../../images/participants/mika-braginsky.png") no-repeat;
+  background-size: cover; }
+
+
 
 
 /*To add new participants, create a class like the ones above.
