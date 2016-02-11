@@ -265,7 +265,7 @@ header {
 .byline-italic {
   font-style: italic;
   font-size: 110%;
-}    
+}
 
 .byline-other {
     font-size: 110%;
@@ -361,12 +361,12 @@ header {
 .intro-wrap a  {
   /*color: #f1c40f;*/
   color: #FBF1CE;
-}       
+}
 
 .intro-wrap a:visited  {
   /*color: #f1c40f;*/
   color: #FBF1CE;
-}       
+}
 
 
 
@@ -396,7 +396,7 @@ header {
   margin-bottom: 20px;
   margin-left: 10px;
   margin-right: 10px;
-}      
+}
 
 /*.coc-wrap li {
 font-family: "proxima-nova-alt",sans-serif;
@@ -432,13 +432,13 @@ font-weight: 700;
 
 /*.intro-wrap a {
   color: #2c3e50;
-}  */    
+}  */
 
 .intro {
   margin-top: 0; }
   .intro .title-col {
     margin-bottom: 0;
-    width: 100%; 
+    width: 100%;
   }
   @media only screen and (min-width: 1100px) {
     .intro {
@@ -658,7 +658,9 @@ font-weight: 700;
   background: url("../../images/participants/mika-braginsky.png") no-repeat;
   background-size: cover; }
 
-
+.noam-ross .participant-image {
+  background: url("../../images/participants/noam-ross.png") no-repeat;
+  background-size: cover; }
 
 
 /*To add new participants, create a class like the ones above.
@@ -1001,7 +1003,7 @@ Drop the image in the participants folder and link to either the png or jpg vers
 footer {
   width: 90%;
   text-align: center;
-  margin: 10rem auto 10rem; 
+  margin: 10rem auto 10rem;
   padding: 4px; }
     @media only screen and (min-width: 700px) {
     footer {
@@ -1012,14 +1014,14 @@ footer {
         width: 100rem;
         text-align: center; } }
     @media only screen and (max-width: 480px) {
-        footer { 
-            display : none; 
-            visibility : hidden; 
+        footer {
+            display : none;
+            visibility : hidden;
         } }
-      
+
 /*  footer a {
     text-decoration: none;
-    font-weight: 500; 
+    font-weight: 500;
     text-align: center;
   }*/
 
@@ -1099,4 +1101,4 @@ a.section-jump {
 .cd-top.cd-fade-out {
   /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
   opacity: .5;
-}  
+}
