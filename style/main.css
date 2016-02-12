@@ -613,6 +613,10 @@ font-weight: 700;
   background: url("../../images/participants/david-robinson.jpg") no-repeat;
   background-size: cover; }
 
+.tiffany-timbers .participant-image {
+  background: url("../../images/participants/tiffany-timbers.jpg") no-repeat;
+  background-size: cover; }
+
 .joe-cheng .participant-image {
   background: url("../../images/participants/joe-cheng.jpg") no-repeat;
   background-size: cover; }
