@@ -667,6 +667,12 @@ font-weight: 700;
   background-size: cover; }
 
 
+.diana-ly .participant-image {
+  background: url("../../images/participants/diana-ly.png") no-repeat;
+  background-size: cover; }
+
+
+
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
 Drop the image in the participants folder and link to either the png or jpg versions. gifs are also fine*/
