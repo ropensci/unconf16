@@ -613,6 +613,10 @@ font-weight: 700;
   background: url("../../images/participants/david-robinson.jpg") no-repeat;
   background-size: cover; }
 
+.maelle-salmon .participant-image {
+  background: url("../../images/participants/maelle-salmon.jpg") no-repeat;
+  background-size: cover; }
+
 .tiffany-timbers .participant-image {
   background: url("../../images/participants/tiffany-timbers.jpg") no-repeat;
   background-size: cover; }
