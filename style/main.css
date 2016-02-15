@@ -621,6 +621,10 @@ font-weight: 700;
   background: url("../../images/participants/tiffany-timbers.jpg") no-repeat;
   background-size: cover; }
 
+.heidi-seibold .participant-image {
+  background: url("../../images/participants/heidi-seibold.jpg") no-repeat;
+  background-size: cover; }
+
 .joe-cheng .participant-image {
   background: url("../../images/participants/joe-cheng.jpg") no-repeat;
   background-size: cover; }
