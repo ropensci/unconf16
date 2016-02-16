@@ -1,5 +1,5 @@
 # rOpenSci 2016 unconference
-__(invitation only), March 30 - April 1, 2016. San Francisco__
+__(invitation only), March 31 - April 1, 2016. San Francisco__
 
 ![](http://i.imgur.com/TTnpSYS.png)
 
