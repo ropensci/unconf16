@@ -651,6 +651,10 @@ font-weight: 700;
   background: url("../../images/participants/jeff-leek.jpg") no-repeat;
   background-size: cover; }
 
+.kenneth-benoit .participant-image {
+  background: url("../../images/participants/kenneth-benoit.jpg") no-repeat;
+  background-size: cover; }
+
 .bob-rudis .participant-image {
   background: url("../../images/participants/bob-rudis.png") no-repeat;
   background-size: cover; }
