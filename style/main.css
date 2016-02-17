@@ -647,6 +647,9 @@ font-weight: 700;
   background: url("../../images/participants/jillian-dunic.jpg") no-repeat;
   background-size: cover; }
 
+.jeff-leek .participant-image {
+  background: url("../../images/participants/jeff-leek.jpg") no-repeat;
+  background-size: cover; }
 
 .karissa-mckelvey .participant-image {
   background: url("../../images/participants/karissa-mckelvey.png") no-repeat;
