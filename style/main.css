@@ -676,6 +676,9 @@ font-weight: 700;
   background: url("../../images/participants/nicole-white.jpg") no-repeat;
   background-size: cover; }
 
+.francois-michonneau .participant-image {
+  background: url("../../images/participants/francois-michonneau.jpg") no-repeat;
+  background-size: cover; }
 
 .mika-braginsky .participant-image {
   background: url("../../images/participants/mika-braginsky.png") no-repeat;
