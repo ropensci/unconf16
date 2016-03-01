@@ -705,10 +705,25 @@ font-weight: 700;
   background: url("../../images/participants/thomas-leeper.jpg") no-repeat;
   background-size: cover; }
 
-  .ricardo-bion .participant-image {
-  background: url("../../images/participants/ricardo-bion.jpg") no-repeat;
+  .ricardo-bion .participant-image { background:
+  url("../../images/participants/ricardo-bion.jpg") no-repeat;
   background-size: cover; }
 
+.sean-kross .participant-image { background:
+  url("../../images/participants/sean-kross.jpg") no-repeat;
+  background-size: cover; }
+
+.melissa-guzman .participant-image { background:
+  url("../../images/participants/melissa-guzman.jpg") no-repeat;
+  background-size: cover; }
+
+.daniel-emaasit .participant-image { background:
+  url("../../images/participants/daniel-emaasit.jpg") no-repeat;
+  background-size: cover; }
+
+.brooke-anderson .participant-image { background:
+  url("../../images/participants/brooke-anderson.jpg") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
