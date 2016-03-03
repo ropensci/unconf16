@@ -7,7 +7,7 @@ Welcome to the repository for the 2016 unconference.  rOpenSci will be hosting i
 
 * [Participants](http://unconf16.ropensci.org/#participants)  
 * Logistics *link to come*  
-* Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed. (Not yet open)
+* Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed.
 
 Event hashtag is `#runconf16`
 
