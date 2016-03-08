@@ -741,7 +741,9 @@ font-weight: 700;
   background: url("../../images/participants/gabe-becker.jpg") no-repeat;
   background-size: cover; }
 
-
+.tracy-teal .participant-image { background:
+  url("../../images/participants/tracy-teal.jpg") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
